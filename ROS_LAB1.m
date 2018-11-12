@@ -6,3 +6,4 @@ while(1)
     plot(x,y,'*');
     xlim = ([0 15])
     ylim = ([0 15])
+end
