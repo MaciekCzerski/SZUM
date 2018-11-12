@@ -1,4 +1,4 @@
-rosinit()
+rosinit
 ``````````
 while(1)
     turtle = rossubscriber('/turtle1/pose');
