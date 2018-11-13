@@ -6,6 +6,6 @@ while(1)
     x = msg.X
     y = msg.Y
     plot(x,y,'*');
-    xlim = ([0 15])
-    ylim = ([0 15])
+    xlim([0 20])
+    ylim([0 20])
 end
